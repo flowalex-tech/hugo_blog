@@ -1,5 +1,5 @@
 ---
-title: Alex Wolf
+title: Projects
 background: "/images/bg.jpg"
 logo: /images/laptop-code-solid.svg
 ---

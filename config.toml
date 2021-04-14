@@ -2,11 +2,11 @@ baseurl = "https://flowalex.tech/"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
-title = "Beautiful Hugo"
+title = "Blog V2"
 canonifyurls  = true
 
 DefaultContentLanguage = "en"
-theme = "beautifulhugo"
+theme = "dimension"
 metaDataFormat = "yaml"
 pygmentsUseClasses = true
 pygmentCodeFences = true
@@ -34,12 +34,12 @@ pygmentCodeFences = true
 #  desc = "Hexagon"
 
 [Author]
-  name = "Some Person"
-  email = "youremail@domain.com"
+  name = "Alex Wolf"
+  email = "social@flowalex.tech"
   facebook = "username"
   googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
-  gitlab = "username"
-  github = "username"
+  gitlab = "flowalex"
+  github = "flowalex-tech"
   twitter = "username"
   reddit = "username"
   linkedin = "username"
