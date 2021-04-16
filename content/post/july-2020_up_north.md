@@ -1,5 +1,5 @@
 ---
-title: "Up to the North Shore"
+title: "Up North"
 date: 2020-10-27
 background: "/images/north_shore.jpg"
 ---
