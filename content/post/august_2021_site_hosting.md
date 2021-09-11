@@ -1,6 +1,7 @@
 ---
 title: "Hosting this site"
 date: 2021-09-14
+author: "Alex Wolf"
 ---
 ### How it Began
 I have had a personal site since 2016, but the hosting has changed over the time.  It started out with one of those free Google sites which can be viewed below.
