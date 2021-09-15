@@ -1,4 +1,4 @@
-baseurl = "https://blog.flowalex.tech/"
+baseurl = "https://alexanderwolf.io/"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
