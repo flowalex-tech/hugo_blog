@@ -53,6 +53,7 @@ pygmentCodeFences = true
   bandcamp = "username"
   itchio = "username"
   keybase = "username"
+  mastodon = "https://fosstodon.org/@flowalex"
 
 
 [[menu.main]]
